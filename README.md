@@ -15,7 +15,7 @@ Install JAVA automatically on ubuntu server
 
 #### 2. Download the script:
 ```
-sudo wget https://raw.githubusercontent.com/anirbandutta9/webmin_autoinstall/master/webmin_install.sh
+sudo wget https://raw.githubusercontent.com/anirbandutta9/java_auto_install/master/java_install.sh
 ```
 #### 4. Make the script executable
 ```
